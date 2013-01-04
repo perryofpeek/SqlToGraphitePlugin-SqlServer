@@ -7,7 +7,7 @@
     <owners>Owain Perry</owners>
     <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl>
     <projectUrl>https://github.com/perryofpeek/SqlToGraphitePlugin-SqlServer</projectUrl>  <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Contains SqlToGraphite oracle plugin</description>
+    <description>Contains SqlToGraphite SqlServer plugin</description>
     <releaseNotes>none.</releaseNotes>
     <copyright>Copyright PerryOfPeek 2012</copyright>
     <tags>SqlToGraphite Graphite SqlServer Plugin</tags>

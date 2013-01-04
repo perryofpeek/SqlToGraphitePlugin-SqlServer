@@ -57,7 +57,7 @@ task Compile {
 }
 
 task Clean {
-  write-output "!! $Build_Artifacts"
+  #write-output "!! $Build_Artifacts"
   if((test-path  $Build_Artifacts -pathtype container))
   {
 	rmdir -Force -Recurse $Build_Artifacts;
