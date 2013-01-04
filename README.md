@@ -1,4 +1,4 @@
-SqlToGraphitePlugin-HttpPing
+SqlToGraphitePlugin-SqlServer
 ============================
 
-Simple SqlToGraphitePlugin that times a http request
+Simple SqlToGraphitePlugin that works with SqlServer
