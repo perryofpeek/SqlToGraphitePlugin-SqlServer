@@ -11,7 +11,7 @@ properties {
   $TestReport = "";
   $Build_Artifacts = 'output'
   $Build_Configuration = 'Release'
-  $version = '0.1.0.0'
+  $version = '0.1.0.1'
   $nuspecFile = "SqlToGraphitePlugin-SqlServer.nuspec"
 }
 
